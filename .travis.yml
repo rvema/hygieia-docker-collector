@@ -32,9 +32,6 @@ notifications:
     on_start: always
   email:
     recipients:
-      - tapabrata.pal@capitalone.com
       - ragha.vema@capitalone.com
-      - prashant.chouhan2@wipro.com
-      - hygieia2@capitalone.com
     on_success: always
     on_failure: always
